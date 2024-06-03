@@ -10,7 +10,8 @@ Rudolph and Cut the Rope: https://codeforces.com/contest/1846/problem/A
 Number Spiral: https://cses.fi/problemset/task/1071
 
 SPOJ TDPrimes: https://www.spoj.com/problems/TDPRIMES/
-- CSES Exponentiation: https://cses.fi/problemset/task/1095
+
+CSES Exponentiation: https://cses.fi/problemset/task/1095
 - CSES Counting Divisors: https://cses.fi/problemset/task/1713
 - Find (a^b)%m: https://www.geeksforgeeks.org/problems/find-abm3912/1?page=2&category=Modular%20Arithmetic&sortBy=submissions
 - ETF - Euler Totient Function: https://www.spoj.com/problems/ETF/
