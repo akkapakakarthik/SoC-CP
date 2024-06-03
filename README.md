@@ -3,9 +3,11 @@ This is the repository of all my files that i coded in SoC CP.
 ## Week 1 Problems
 
 To My Critics: https://codeforces.com/contest/1850/problem/A
+
 Rudolph and Cut the Rope: https://codeforces.com/contest/1846/problem/A
 - 1D Eraser: https://codeforces.com/problemset/problem/1873/D
 - Number Spiral: https://cses.fi/problemset/task/1071
+
 SPOJ TDPrimes: https://www.spoj.com/problems/TDPRIMES/
 - CSES Exponentiation: https://cses.fi/problemset/task/1095
 - CSES Counting Divisors: https://cses.fi/problemset/task/1713
