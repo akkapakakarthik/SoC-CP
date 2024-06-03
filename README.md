@@ -2,18 +2,14 @@
 This is the repository of all my files that i coded in SoC CP.
 ## Week 1 Problems
 
-To My Critics: https://codeforces.com/contest/1850/problem/A
-
-Rudolph and Cut the Rope: https://codeforces.com/contest/1846/problem/A
+- To My Critics: https://codeforces.com/contest/1850/problem/A (done)
+- Rudolph and Cut the Rope: https://codeforces.com/contest/1846/problem/A (done)
 - 1D Eraser: https://codeforces.com/problemset/problem/1873/D
-
-Number Spiral: https://cses.fi/problemset/task/1071
-
-SPOJ TDPrimes: https://www.spoj.com/problems/TDPRIMES/
-
-CSES Exponentiation: https://cses.fi/problemset/task/1095
-- CSES Counting Divisors: https://cses.fi/problemset/task/1713
-- Find (a^b)%m: https://www.geeksforgeeks.org/problems/find-abm3912/1?page=2&category=Modular%20Arithmetic&sortBy=submissions
+- Number Spiral: https://cses.fi/problemset/task/1071 (done)
+- SPOJ TDPrimes: https://www.spoj.com/problems/TDPRIMES/ (done)
+- CSES Exponentiation: https://cses.fi/problemset/task/1095 (done)
+- CSES Counting Divisors: https://cses.fi/problemset/task/1713 (done)
+- Find (a^b)%m: https://www.geeksforgeeks.org/problems/find-abm3912/1?page=2&category=Modular%20Arithmetic&sortBy=submissions (done)
 - ETF - Euler Totient Function: https://www.spoj.com/problems/ETF/
 - Ebony and Ivory: https://codeforces.com/contest/633/problem/A
 - Get AC in one go: https://www.codechef.com/problems/COPR16G
