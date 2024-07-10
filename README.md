@@ -31,6 +31,7 @@ This is the repository of all my files that I coded in SoC CP.
 9. Jumping Through Segments: https://codeforces.com/contest/1907/problem/D
 10. Good Triples: https://codeforces.com/contest/1907/problem/E
 11. Game with Multiset: https://codeforces.com/problemset/problem/1913/C
+
 HOTS
 1. Watering an Array: https://codeforces.com/problemset/problem/1917/C
 2. Suspicious logarithms: https://codeforces.com/problemset/problem/1891/D
