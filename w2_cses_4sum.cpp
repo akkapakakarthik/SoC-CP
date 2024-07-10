@@ -37,23 +37,20 @@ vector<vector<int>> fourSum(vector<int> nums, int n, int target){
             }
         }
     }
-    return ans;
+    if(ans.size() == 0) cout << "IMPOSSIBLE" << endl;
+    else return ans;
 }
 
-int main() {
+int main(){
     int n, x;
     cin >> n >> x;
     vector<int> nums(n);
     for(int i = 0; i < n; i++){
         cin >> nums[i];
     }
-    vector<int> ans = fourSum(nums, n, x)[0];
-    if(ans.size() != 0){
-        for(int i = 0; i < 4; i++){
-            cout << ans[i] << " ";
+    vector<int> ans = fourSum(nums, n, x)[0];\
+    for(int i = 0; i < 4; i++){
+        cout << ans[i] << " ";
         }
-        cout << endl;
-    }
-    else cout << "IMPOSSIBLE" << endl;
-
+    cout << endl;
 }
