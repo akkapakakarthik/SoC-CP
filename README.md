@@ -24,18 +24,14 @@ This is the repository of all my files that I coded in SoC CP.
 2. Search in rotated sorted array: https://leetcode.com/problems/search-in-rotated-sorted-array/description/ (done)
 3. Problem on Strings: https://codeforces.com/problemset/problem/165/C
 4. Sum of Four Values: https://cses.fi/problemset/task/1642 (done)
-5. Subarray Sums II: https://cses.fi/problemset/task/1661
+5. Subarray Sums II: https://cses.fi/problemset/task/1661 (done)
 6. Subarray Distinct Values: https://cses.fi/problemset/task/2428
 7. Sliding Window Median: ****https://cses.fi/problemset/task/1076/ (done)
-8. Frodo and pillows: https://codeforces.com/problemset/problem/760/B
+8. Frodo and pillows: https://codeforces.com/problemset/problem/760/B (done)
 9. Jumping Through Segments: https://codeforces.com/contest/1907/problem/D
-10. Good Triples: https://codeforces.com/contest/1907/problem/E
-11. Game with Multiset: https://codeforces.com/problemset/problem/1913/C
+10. Good Triples: https://codeforces.com/contest/1907/problem/E (done)
+11. Game with Multiset: https://codeforces.com/problemset/problem/1913/C (done)
 
-HOTS
-1. Watering an Array: https://codeforces.com/problemset/problem/1917/C
-2. Suspicious logarithms: https://codeforces.com/problemset/problem/1891/D
-3. Replace With Product: https://codeforces.com/problemset/problem/1872/G
 
 ## Week 3 Problems
 *Recursion Problems:*
