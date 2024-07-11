@@ -39,21 +39,29 @@ This is the repository of all my files that I coded in SoC CP.
 - Permutation Transformation: https://codeforces.com/problemset/problem/1490/D (done)
 - Masha and a Beautiful Tree: https://codeforces.com/problemset/problem/1741/D
 - a-Good String: https://codeforces.com/problemset/problem/1385/D
-- Creative Snap: https://codeforces.com/problemset/problem/1111/C
-- Equivalent Strings: https://codeforces.com/problemset/problem/559/B
+- Creative Snap: https://codeforces.com/problemset/problem/1111/C (done)
+- Equivalent Strings: https://codeforces.com/problemset/problem/559/B (done)
 - Stone Removing Game: https://www.spoj.com/problems/REMGAME/
 
 *Graph Problems:*
 
-- SPIKES: https://www.spoj.com/problems/SPIKES/
+- SPIKES: https://www.spoj.com/problems/SPIKES/ (done)
 - Ada and Island: https://www.spoj.com/problems/ADASEA/
 - Ada and Cycle: https://www.spoj.com/problems/ADACYCLE/
-- Mice and Maze: https://www.spoj.com/problems/MICEMAZE/
+- Mice and Maze: https://www.spoj.com/problems/MICEMAZE/ (done)
 - Monsters: https://cses.fi/problemset/task/1194
 - Shortest Paths II: https://cses.fi/problemset/task/1672
 - Cycle Finding: https://cses.fi/problemset/task/1197
 - Tree Game: https://www.spoj.com/problems/CT23E/
 - Round Trip II: https://cses.fi/problemset/task/1678/ (done)
 - Course Schedule: https://cses.fi/problemset/task/1679
-- BUGLIFE: https://www.spoj.com/problems/BUGLIFE/
+- BUGLIFE: https://www.spoj.com/problems/BUGLIFE/ (done)
 - Mail Delivery: https://cses.fi/problemset/task/1691
+
+  **HOTS:**
+
+- Mad City: https://codeforces.com/problemset/problem/1873/H
+- Cyclic Operations: https://codeforces.com/problemset/problem/1867/D
+- Candy Party (Easy Version): https://codeforces.com/problemset/problem/1868/B1 (done)
+- Regex matching: https://leetcode.com/problems/regular-expression-matching/description/
+- SEQ - Recursive Sequence: https://www.spoj.com/problems/SEQ/
