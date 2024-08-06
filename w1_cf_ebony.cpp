@@ -10,7 +10,10 @@ int main () {
     bool ans = false;
     for (int edamage = 0; edamage <= emax; edamage += ebony){
         for (int idamage = 0; idamage <= imax; idamage += ivory){
-            if (edamage + idamage == damage) ans = true;
+            if (edamage + idamage == damage) {
+                ans = true;
+                break;
+            }
         }
     }
     if (ans == true) cout << "Yes" << endl;
